@@ -1,0 +1,37 @@
+#white {
+  background-color: white;
+}
+#green {
+  background-color: green;
+}
+#red {
+  background-color: red;
+}
+#yellow {
+  background-color: yellow;
+}
+#black {
+  background-color: black;
+}
+#orange {
+  background-color: orange;
+}
+#qiita {
+  background-color: #59bb0c;
+}
+img {
+  width: 200px;
+}
+.container {
+  margin: 200px auto;
+  width: 500px;
+}
+.container div {
+  float: left;
+  margin-right: 30px;
+}
+.message {
+  clear: both;
+  margin-top: 10px;
+  color: white;
+}
